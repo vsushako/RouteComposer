@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteComposer", "RouteComposer\RouteComposer.csproj", "{5C60A41E-9C62-40F6-905E-ECC87FEC6F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteComposer.Test", "RouteComposer.Test\RouteComposer.Test.csproj", "{102C2B5C-B229-4191-BC31-5A3CA2B05A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C60A41E-9C62-40F6-905E-ECC87FEC6F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C60A41E-9C62-40F6-905E-ECC87FEC6F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C60A41E-9C62-40F6-905E-ECC87FEC6F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C60A41E-9C62-40F6-905E-ECC87FEC6F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102C2B5C-B229-4191-BC31-5A3CA2B05A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102C2B5C-B229-4191-BC31-5A3CA2B05A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102C2B5C-B229-4191-BC31-5A3CA2B05A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102C2B5C-B229-4191-BC31-5A3CA2B05A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8DB796E-0BFE-4043-B687-D9122C9924A9}
+	EndGlobalSection
+EndGlobal
